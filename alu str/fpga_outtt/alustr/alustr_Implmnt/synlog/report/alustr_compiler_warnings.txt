@@ -1,0 +1,3 @@
+@W: CL207 :"C:\Users\RoYaa\Desktop\ALU_STURCTURE\Arithematic_unit.v":19:0:19:1|All reachable assignments to flag_zero assign 1, register removed by optimization.
+@W: CL247 :"C:\Users\RoYaa\Desktop\ALU_STURCTURE\shifter_unit.v":3:11:3:11|Input port bit 7 of A[7:0] is unused
+

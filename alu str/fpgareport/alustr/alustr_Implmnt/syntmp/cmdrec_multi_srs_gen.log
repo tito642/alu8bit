@@ -1,0 +1,7 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe  -link  -multisrs  "C:\Users\RoYaa\Downloads\Compressed\New folder\New folder\ALU_STURCTURE\ALU_STURCTURE\fpgareport\alustr\alustr_Implmnt\synwork\alustr_comp.srs"  -osyn  "C:\Users\RoYaa\Downloads\Compressed\New folder\New folder\ALU_STURCTURE\ALU_STURCTURE\fpgareport\alustr\alustr_Implmnt\synwork\alustr_mult.srs"  -log  "C:\Users\RoYaa\Downloads\Compressed\New folder\New folder\ALU_STURCTURE\ALU_STURCTURE\fpgareport\alustr\alustr_Implmnt\synlog\alustr_multi_srs_gen.srr" 
+rc:0 success:1 runtime:0
+file:C:\Users\RoYaa\Downloads\Compressed\New folder\New folder\ALU_STURCTURE\ALU_STURCTURE\fpgareport\alustr\alustr_Implmnt\synwork\alustr_comp.srs|io:i|time:1702867677|size:6928|exec:0
+file:C:\Users\RoYaa\Downloads\Compressed\New folder\New folder\ALU_STURCTURE\ALU_STURCTURE\fpgareport\alustr\alustr_Implmnt\synwork\alustr_mult.srs|io:o|time:1702867678|size:3613|exec:0
+file:C:\Users\RoYaa\Downloads\Compressed\New folder\New folder\ALU_STURCTURE\ALU_STURCTURE\fpgareport\alustr\alustr_Implmnt\synlog\alustr_multi_srs_gen.srr|io:o|time:1702867678|size:801|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\syn_nfilter.exe|io:i|time:1700328115|size:3128320|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1700328118|size:3947520|exec:1

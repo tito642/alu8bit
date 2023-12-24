@@ -1,0 +1,14 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\m_generic.exe  -prodtype  synplify_pro   -encrypt  -pro  -rundir  C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt   -part iCE40HX1K  -package TQ144    -maxfan 10000 -RWCheckOnRam 0 -pipe -fixgatedclocks 1 -fixgeneratedclocks 1 -summaryfile C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\synlog\report\alustr_fpga_mapper.xml  -flow mapping  -multisrs  -oedif  C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\alustr.edf   -autoconstraint  -freq 1.000   C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\synwork\alustr_prem.srd  -sap  C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\alustr.sap  -otap  C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\alustr.tap  -omap  C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\alustr.map  -devicelib  C:\lscc\iCEcube2.2020.12\synpbase\lib\generic\sb_ice40.v  -sap  C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\alustr.sap  -ologparam  C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\syntmp\alustr.plg  -osyn  C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\alustr.srm  -prjdir  C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\  -prjname  alustr_syn  -log  C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\synlog\alustr_fpga_mapper.srr 
+rc:1 success:1 runtime:2
+file:C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\alustr.edf|io:o|time:1703040284|size:103799|exec:0
+file:C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\synwork\alustr_prem.srd|io:i|time:1703040282|size:9656|exec:0
+file:C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\alustr.sap|io:o|time:1703040282|size:428|exec:0
+file:C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\alustr.tap|io:o|time:0|size:0|exec:0
+file:C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\alustr.map|io:o|time:1703040284|size:28|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\lib\generic\sb_ice40.v|io:i|time:1700328119|size:224837|exec:0
+file:C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\alustr.sap|io:o|time:1703040282|size:428|exec:0
+file:C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\syntmp\alustr.plg|io:o|time:1703040284|size:510|exec:0
+file:C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\alustr.srm|io:o|time:1703040283|size:13278|exec:0
+file:C:\Users\RoYaa\Desktop\ALU_STURCTURE\fpga_outtt\alustr\alustr_Implmnt\synlog\alustr_fpga_mapper.srr|io:o|time:1703040284|size:9102|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\m_generic.exe|io:i|time:1700328111|size:17853440|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\m_generic.exe|io:i|time:1700328116|size:32355840|exec:1

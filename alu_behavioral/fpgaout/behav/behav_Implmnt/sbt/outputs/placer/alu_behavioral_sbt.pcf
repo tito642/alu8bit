@@ -1,0 +1,107 @@
+set_location B_ibuf_RNI08QF1[1] 1 11 0 # SB_LUT4 (LogicCell: B_ibuf_RNI08QF1[1]_LC_0)
+set_location B_ibuf_RNI2AQF1[2] 2 9 3 # SB_LUT4 (LogicCell: B_ibuf_RNI2AQF1[2]_LC_1)
+set_location B_ibuf_RNI4CQF1[3] 2 12 4 # SB_LUT4 (LogicCell: B_ibuf_RNI4CQF1[3]_LC_2)
+set_location B_ibuf_RNI6EQF1[4] 1 10 1 # SB_LUT4 (LogicCell: B_ibuf_RNI6EQF1[4]_LC_3)
+set_location B_ibuf_RNI8GQF1[5] 1 12 5 # SB_LUT4 (LogicCell: B_ibuf_RNI8GQF1[5]_LC_4)
+set_location B_ibuf_RNIAIQF1[6] 2 12 5 # SB_LUT4 (LogicCell: B_ibuf_RNIAIQF1[6]_LC_5)
+set_location B_ibuf_RNIE5VR2[0] 1 11 2 # SB_LUT4 (LogicCell: B_ibuf_RNIE5VR2[0]_LC_6)
+set_location B_ibuf_RNIG7BS[1] 1 11 6 # SB_LUT4 (LogicCell: B_ibuf_RNIG7BS[1]_LC_7)
+set_location B_ibuf_RNIH05C1[1] 1 11 7 # SB_LUT4 (LogicCell: B_ibuf_RNIH05C1[1]_LC_8)
+set_location B_ibuf_RNIH8BS[2] 2 11 5 # SB_LUT4 (LogicCell: B_ibuf_RNIH8BS[2]_LC_9)
+set_location B_ibuf_RNII15C1[2] 2 11 4 # SB_LUT4 (LogicCell: B_ibuf_RNII15C1[2]_LC_10)
+set_location B_ibuf_RNII9BS[3] 1 9 4 # SB_LUT4 (LogicCell: B_ibuf_RNII9BS[3]_LC_11)
+set_location B_ibuf_RNIJ25C1[3] 1 9 5 # SB_LUT4 (LogicCell: B_ibuf_RNIJ25C1[3]_LC_12)
+set_location B_ibuf_RNIJABS[4] 1 10 2 # SB_LUT4 (LogicCell: B_ibuf_RNIJABS[4]_LC_13)
+set_location B_ibuf_RNIK35C1[4] 1 10 7 # SB_LUT4 (LogicCell: B_ibuf_RNIK35C1[4]_LC_14)
+set_location B_ibuf_RNIKBBS[5] 2 11 6 # SB_LUT4 (LogicCell: B_ibuf_RNIKBBS[5]_LC_15)
+set_location B_ibuf_RNIL45C1[5] 2 11 7 # SB_LUT4 (LogicCell: B_ibuf_RNIL45C1[5]_LC_16)
+set_location B_ibuf_RNILCBS[6] 1 9 0 # SB_LUT4 (LogicCell: B_ibuf_RNILCBS[6]_LC_17)
+set_location B_ibuf_RNIM55C1[6] 1 9 1 # SB_LUT4 (LogicCell: B_ibuf_RNIM55C1[6]_LC_18)
+set_location B_ibuf_RNIU5QF1[0] 1 11 1 # SB_LUT4 (LogicCell: B_ibuf_RNIU5QF1[0]_LC_19)
+set_location alu_out_RNO[0] 1 10 3 # SB_LUT4 (LogicCell: alu_out_RNO[0]_LC_20)
+set_location alu_out_RNO_0[0] 1 11 4 # SB_LUT4 (LogicCell: alu_out_RNO_0[0]_LC_21)
+set_location alu_out_RNO_0[1] 1 8 1 # SB_LUT4 (LogicCell: alu_out_RNO_0[1]_LC_22)
+set_location alu_out_RNO_0[2] 2 9 6 # SB_LUT4 (LogicCell: alu_out_RNO_0[2]_LC_23)
+set_location alu_out_RNO_0[3] 2 9 1 # SB_LUT4 (LogicCell: alu_out_RNO_0[3]_LC_24)
+set_location alu_out_RNO_0[4] 1 12 3 # SB_LUT4 (LogicCell: alu_out_RNO_0[4]_LC_25)
+set_location alu_out_RNO_0[5] 1 12 7 # SB_LUT4 (LogicCell: alu_out_RNO_0[5]_LC_26)
+set_location alu_out_RNO_0[6] 2 12 3 # SB_LUT4 (LogicCell: alu_out_RNO_0[6]_LC_27)
+set_location alu_out_RNO_0[7] 2 11 1 # SB_LUT4 (LogicCell: alu_out_RNO_0[7]_LC_28)
+set_location alu_out_RNO[1] 1 8 2 # SB_LUT4 (LogicCell: alu_out_RNO[1]_LC_29)
+set_location alu_out_RNO_1[0] 2 10 1 # SB_LUT4 (LogicCell: alu_out_RNO_1[0]_LC_30)
+set_location un1_A_1_cry_0_c 2 10 1 # SB_CARRY (LogicCell: alu_out_RNO_1[0]_LC_30)
+set_location alu_out_RNO_1[1] 2 10 2 # SB_LUT4 (LogicCell: alu_out_RNO_1[1]_LC_31)
+set_location un1_A_1_cry_1_0_c 2 10 2 # SB_CARRY (LogicCell: alu_out_RNO_1[1]_LC_31)
+set_location alu_out_RNO_1[2] 2 10 3 # SB_LUT4 (LogicCell: alu_out_RNO_1[2]_LC_32)
+set_location un1_A_1_cry_2_0_c 2 10 3 # SB_CARRY (LogicCell: alu_out_RNO_1[2]_LC_32)
+set_location alu_out_RNO_1[3] 2 10 4 # SB_LUT4 (LogicCell: alu_out_RNO_1[3]_LC_33)
+set_location un1_A_1_cry_3_0_c 2 10 4 # SB_CARRY (LogicCell: alu_out_RNO_1[3]_LC_33)
+set_location alu_out_RNO_1[4] 2 10 5 # SB_LUT4 (LogicCell: alu_out_RNO_1[4]_LC_34)
+set_location un1_A_1_cry_4_0_c 2 10 5 # SB_CARRY (LogicCell: alu_out_RNO_1[4]_LC_34)
+set_location alu_out_RNO_1[5] 2 10 6 # SB_LUT4 (LogicCell: alu_out_RNO_1[5]_LC_35)
+set_location un1_A_1_cry_5_0_c 2 10 6 # SB_CARRY (LogicCell: alu_out_RNO_1[5]_LC_35)
+set_location alu_out_RNO_1[6] 2 10 7 # SB_LUT4 (LogicCell: alu_out_RNO_1[6]_LC_36)
+set_location un1_A_1_cry_6_0_c 2 10 7 # SB_CARRY (LogicCell: alu_out_RNO_1[6]_LC_36)
+set_location alu_out_RNO_1[7] 2 12 7 # SB_LUT4 (LogicCell: alu_out_RNO_1[7]_LC_37)
+set_location alu_out_RNO[2] 2 9 7 # SB_LUT4 (LogicCell: alu_out_RNO[2]_LC_38)
+set_location alu_out_RNO_2[0] 1 11 3 # SB_LUT4 (LogicCell: alu_out_RNO_2[0]_LC_39)
+set_location alu_out_RNO_2[1] 1 8 0 # SB_LUT4 (LogicCell: alu_out_RNO_2[1]_LC_40)
+set_location alu_out_RNO_2[2] 2 9 4 # SB_LUT4 (LogicCell: alu_out_RNO_2[2]_LC_41)
+set_location alu_out_RNO_2[3] 2 9 0 # SB_LUT4 (LogicCell: alu_out_RNO_2[3]_LC_42)
+set_location alu_out_RNO_2[4] 1 12 2 # SB_LUT4 (LogicCell: alu_out_RNO_2[4]_LC_43)
+set_location alu_out_RNO_2[5] 1 12 6 # SB_LUT4 (LogicCell: alu_out_RNO_2[5]_LC_44)
+set_location alu_out_RNO_2[6] 2 12 2 # SB_LUT4 (LogicCell: alu_out_RNO_2[6]_LC_45)
+set_location alu_out_RNO_2[7] 2 11 3 # SB_LUT4 (LogicCell: alu_out_RNO_2[7]_LC_46)
+set_location alu_out_RNO[3] 2 9 2 # SB_LUT4 (LogicCell: alu_out_RNO[3]_LC_47)
+set_location alu_out_RNO_3[0] 1 11 5 # SB_LUT4 (LogicCell: alu_out_RNO_3[0]_LC_48)
+set_location alu_out_RNO_3[1] 1 9 2 # SB_LUT4 (LogicCell: alu_out_RNO_3[1]_LC_49)
+set_location alu_out_RNO_3[2] 2 9 5 # SB_LUT4 (LogicCell: alu_out_RNO_3[2]_LC_50)
+set_location alu_out_RNO_3[3] 1 9 6 # SB_LUT4 (LogicCell: alu_out_RNO_3[3]_LC_51)
+set_location alu_out_RNO_3[4] 1 12 1 # SB_LUT4 (LogicCell: alu_out_RNO_3[4]_LC_52)
+set_location alu_out_RNO_3[5] 1 12 4 # SB_LUT4 (LogicCell: alu_out_RNO_3[5]_LC_53)
+set_location alu_out_RNO_3[6] 2 12 1 # SB_LUT4 (LogicCell: alu_out_RNO_3[6]_LC_54)
+set_location alu_out_RNO_3[7] 2 11 2 # SB_LUT4 (LogicCell: alu_out_RNO_3[7]_LC_55)
+set_location alu_out_RNO[4] 1 10 0 # SB_LUT4 (LogicCell: alu_out_RNO[4]_LC_56)
+set_location alu_out_RNO_4[7] 2 12 6 # SB_LUT4 (LogicCell: alu_out_RNO_4[7]_LC_57)
+set_location alu_out_RNO[5] 1 9 3 # SB_LUT4 (LogicCell: alu_out_RNO[5]_LC_58)
+set_location alu_out_RNO_5[7] 2 12 0 # SB_LUT4 (LogicCell: alu_out_RNO_5[7]_LC_59)
+set_location alu_out_RNO[6] 1 10 5 # SB_LUT4 (LogicCell: alu_out_RNO[6]_LC_60)
+set_location alu_out_RNO[7] 2 11 0 # SB_LUT4 (LogicCell: alu_out_RNO[7]_LC_61)
+set_location s_ibuf_RNI1HJV[0] 1 10 4 # SB_LUT4 (LogicCell: s_ibuf_RNI1HJV[0]_LC_62)
+set_location s_ibuf_RNI1PPF[1] 1 10 6 # SB_LUT4 (LogicCell: s_ibuf_RNI1PPF[1]_LC_63)
+set_location s_ibuf_RNI4CDF1[3] 1 8 7 # SB_LUT4 (LogicCell: s_ibuf_RNI4CDF1[3]_LC_64)
+set_location s_ibuf_RNI667V1_0[2] 1 8 3 # SB_LUT4 (LogicCell: s_ibuf_RNI667V1_0[2]_LC_65)
+set_location s_ibuf_RNI667V1[2] 1 8 6 # SB_LUT4 (LogicCell: s_ibuf_RNI667V1[2]_LC_66)
+set_location s_ibuf_RNID58E4[2] 1 8 4 # SB_LUT4 (LogicCell: s_ibuf_RNID58E4[2]_LC_67)
+set_location s_ibuf_RNIJBFD6[2] 1 8 5 # SB_LUT4 (LogicCell: s_ibuf_RNIJBFD6[2]_LC_68)
+set_location un1_A_1_cry_0_c_THRU_CRY_0 2 10 0 # SB_CARRY (LogicCell: un1_A_1_cry_0_c_THRU_CRY_0_LC_69)
+set_io A_ibuf[0] 0 11 0 # ICE_IO
+set_io A_ibuf[1] 0 3 0 # ICE_IO
+set_io A_ibuf[2] 0 2 1 # ICE_IO
+set_io A_ibuf[3] 0 14 1 # ICE_IO
+set_io A_ibuf[4] 0 14 0 # ICE_IO
+set_io A_ibuf[5] 0 13 0 # ICE_IO
+set_io A_ibuf[6] 0 12 1 # ICE_IO
+set_io A_ibuf[7] 1 17 1 # ICE_IO
+set_io B_ibuf[0] 1 17 0 # ICE_IO
+set_io B_ibuf[1] 0 2 0 # ICE_IO
+set_io B_ibuf[2] 3 17 0 # ICE_IO
+set_io B_ibuf[3] 2 17 0 # ICE_IO
+set_io B_ibuf[4] 0 13 1 # ICE_IO
+set_io B_ibuf[5] 0 12 0 # ICE_IO
+set_io B_ibuf[6] 0 11 1 # ICE_IO
+set_io B_ibuf[7] 2 17 1 # ICE_IO
+set_location GND -1 -1 -1 # GND
+set_io alu_out_obuf[0] 0 4 0 # ICE_IO
+set_io alu_out_obuf[1] 0 3 1 # ICE_IO
+set_io alu_out_obuf[2] 0 4 1 # ICE_IO
+set_io alu_out_obuf[3] 0 6 1 # ICE_IO
+set_io alu_out_obuf[4] 0 5 0 # ICE_IO
+set_io alu_out_obuf[5] 0 8 0 # ICE_IO
+set_io alu_out_obuf[6] 0 5 1 # ICE_IO
+set_io alu_out_obuf[7] 0 6 0 # ICE_IO
+set_io clk_ibuf_gb_io 0 9 0 # ICE_GB_IO
+set_io s_ibuf[0] 0 10 1 # ICE_IO
+set_io s_ibuf[1] 0 9 1 # ICE_IO
+set_io s_ibuf[2] 0 8 1 # ICE_IO
+set_io s_ibuf[3] 0 10 0 # ICE_IO

@@ -1,0 +1,1 @@
+@W: MT529 :"c:\users\royaa\desktop\alu_8bit_project\alu_behavioral\alu_behavioral.v":10:0:10:5|Found inferred clock alu_behavioral|clk which controls 8 sequential elements including alu_out[7:0]. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. 

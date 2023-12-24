@@ -1,0 +1,197 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/simulation/questa
+T_opt
+!s110 1702868103
+VKFb4jjlg@AHI2:n;5=RNW3
+04 6 4 work tb_alu fast 0
+=1-d4bed94826bb-657fb486-354-2ce4
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vALU_STURCTURE
+Z2 !s110 1702868101
+!i10b 1
+!s100 5FaCGO1_7:k9VN]:o>;0S3
+I]Aaz5Z^89i]RzOGmg08fS1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1702540232
+8C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/ALU_STURCTURE.v
+FC:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/ALU_STURCTURE.v
+L0 32
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z5 !s108 1702868101.000000
+!s107 C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/ALU_STURCTURE.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE|C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/ALU_STURCTURE.v|
+!i113 0
+Z6 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 !s92 -vlog01compat -work work {+incdir+C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@l@u_@s@t@u@r@c@t@u@r@e
+vArithematic_unit
+R2
+!i10b 1
+!s100 7[Wh28KBnL]I<Kn_oQ45W0
+IUBfRVgE8Ye6QTzD<TnkRD2
+R3
+R0
+w1702501215
+8C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/Arithematic_unit.v
+FC:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/Arithematic_unit.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/Arithematic_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE|C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/Arithematic_unit.v|
+!i113 0
+R6
+R7
+R1
+n@arithematic_unit
+vlogic_unit
+R2
+!i10b 1
+!s100 O2@^FFF?eZd^6i:UaXV?H1
+IE?@3C8a56Jol;M>PnZNB[2
+R3
+R0
+w1702494222
+8C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/logic_unit.v
+FC:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/logic_unit.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/logic_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE|C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/logic_unit.v|
+!i113 0
+R6
+R7
+R1
+vmux1
+R2
+!i10b 1
+!s100 Caz2RICeF_ZcJ]?EOoMAJ0
+Ij0]>VRzP<i7^8RJQc]Q7X2
+R3
+R0
+w1702494544
+8C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/mux1.v
+FC:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/mux1.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/mux1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE|C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/mux1.v|
+!i113 0
+R6
+R7
+R1
+vmux2
+Z8 !s110 1702868102
+!i10b 1
+!s100 ;]05[Hd>o5KSI9glRGBoE3
+Igz2fdi8^9T^BLY?jORn`z2
+R3
+R0
+w1702537933
+8C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/mux2.v
+FC:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/mux2.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/mux2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE|C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/mux2.v|
+!i113 0
+R6
+R7
+R1
+vregister
+R2
+!i10b 1
+!s100 ERzIFCPaif?XANi547Xmm3
+IWe@6ddKfI?=>_j[HMHQlO1
+R3
+R0
+w1702496680
+8C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/register.v
+FC:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/register.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/register.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE|C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/register.v|
+!i113 0
+R6
+R7
+R1
+vshifter_unit
+R2
+!i10b 1
+!s100 mVcROX?WD27Mm4n=hZa[E3
+Ii:aLH>H_aY6fchL:Sf<Z62
+R3
+R0
+w1702494564
+8C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/shifter_unit.v
+FC:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/shifter_unit.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/shifter_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE|C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/shifter_unit.v|
+!i113 0
+R6
+R7
+R1
+vtb_alu
+R8
+!i10b 1
+!s100 ^3[o5hHT@;iIHMV5AeMC^3
+IA>4`_;7mej`B<@<[B`d2k1
+R3
+R0
+w1702565018
+8C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/tb_alu.v
+FC:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/tb_alu.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1702868102.000000
+!s107 C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/tb_alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE|C:/Users/RoYaa/Downloads/Compressed/New folder/New folder/ALU_STURCTURE/ALU_STURCTURE/tb_alu.v|
+!i113 0
+R6
+R7
+R1

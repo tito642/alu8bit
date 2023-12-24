@@ -1,0 +1,109 @@
+set_location IN_MUX_bfv_2_10_0_ 2 10 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_2_11_0_ 2 11 0 #ICE_CARRY_IN_MUX
+set_location un1_A_1_cry_0_c_THRU_CRY_0 2 10 0 #SB_CARRY
+set_location alu_out_RNO[2] 2 9 7 #SB_LUT4
+set_location alu_out_RNO_1[6] 2 10 7 #SB_LUT4
+set_location s_ibuf_RNIJBFD6[2] 1 8 5 #SB_LUT4
+set_location alu_out_RNO_3[1] 1 9 2 #SB_LUT4
+set_location B_ibuf_RNIH8BS[2] 2 11 5 #SB_LUT4
+set_location alu_out_RNO_0[2] 2 9 6 #SB_LUT4
+set_location alu_out_RNO_2[7] 2 11 3 #SB_LUT4
+set_location un1_A_1_cry_3_0_c 2 10 4 #SB_CARRY
+set_location alu_out_RNO[6] 1 10 5 #SB_LUT4
+set_location alu_out_RNO_1[2] 2 10 3 #SB_LUT4
+set_location B_ibuf_RNIU5QF1[0] 1 11 1 #SB_LUT4
+set_location un1_A_1_cry_2_0_c 2 10 3 #SB_CARRY
+set_location alu_out_RNO_3[5] 1 12 4 #SB_LUT4
+set_location alu_out_RNO_0[5] 1 12 7 #SB_LUT4
+set_location B_ibuf_RNI6EQF1[4] 1 10 1 #SB_LUT4
+set_location B_ibuf_RNI2AQF1[2] 2 9 3 #SB_LUT4
+set_location alu_out_RNO_5[7] 2 12 0 #SB_LUT4
+set_location alu_out_RNO_2[2] 2 9 4 #SB_LUT4
+set_location GND -1 -1 -1 #GND
+set_location B_ibuf_RNIL45C1[5] 2 11 7 #SB_LUT4
+set_location B_ibuf_RNIE5VR2[0] 1 11 2 #SB_LUT4
+set_location s_ibuf_RNI1HJV[0] 1 10 4 #SB_LUT4
+set_location alu_out_RNO[3] 2 9 2 #SB_LUT4
+set_location alu_out_RNO_1[7] 2 12 7 #SB_LUT4
+set_location B_ibuf_RNIJ25C1[3] 1 9 5 #SB_LUT4
+set_location un1_A_1_cry_1_0_c 2 10 2 #SB_CARRY
+set_location alu_out_RNO_3[2] 2 9 5 #SB_LUT4
+set_location un1_A_1_cry_5_0_c 2 10 6 #SB_CARRY
+set_location s_ibuf_RNI667V1[2] 1 8 6 #SB_LUT4
+set_location alu_out_RNO_0[1] 1 8 1 #SB_LUT4
+set_location un1_A_1_cry_4_0_c 2 10 5 #SB_CARRY
+set_location alu_out_RNO_2[6] 2 12 2 #SB_LUT4
+set_location alu_out_RNO[7] 2 11 0 #SB_LUT4
+set_location alu_out_RNO_1[3] 2 10 4 #SB_LUT4
+set_location B_ibuf_RNIKBBS[5] 2 11 6 #SB_LUT4
+set_location B_ibuf_RNIK35C1[4] 1 10 7 #SB_LUT4
+set_location B_ibuf_RNI08QF1[1] 1 11 0 #SB_LUT4
+set_location alu_out_RNO_3[6] 2 12 1 #SB_LUT4
+set_location alu_out_RNO_0[4] 1 12 3 #SB_LUT4
+set_location B_ibuf_RNILCBS[6] 1 9 0 #SB_LUT4
+set_location s_ibuf_RNI667V1_0[2] 1 8 3 #SB_LUT4
+set_location s_ibuf_RNI4CDF1[3] 1 8 7 #SB_LUT4
+set_location alu_out_RNO_3[4] 1 12 1 #SB_LUT4
+set_location alu_out_RNO_1[4] 2 10 5 #SB_LUT4
+set_location alu_out_RNO_0[6] 2 12 3 #SB_LUT4
+set_location alu_out_RNO[0] 1 10 3 #SB_LUT4
+set_location un1_A_1_cry_6_0_c 2 10 7 #SB_CARRY
+set_location alu_out_RNO_3[3] 1 9 6 #SB_LUT4
+set_location alu_out_RNO_2[3] 2 9 0 #SB_LUT4
+set_location B_ibuf_RNI8GQF1[5] 1 12 5 #SB_LUT4
+set_location un1_A_1_cry_0_c 2 10 1 #SB_CARRY
+set_location alu_out_RNO_0[0] 1 11 4 #SB_LUT4
+set_location alu_out_RNO_2[1] 1 8 0 #SB_LUT4
+set_location alu_out_RNO[4] 1 10 0 #SB_LUT4
+set_location alu_out_RNO_1[0] 2 10 1 #SB_LUT4
+set_location B_ibuf_RNII15C1[2] 2 11 4 #SB_LUT4
+set_location alu_out_RNO_3[7] 2 11 2 #SB_LUT4
+set_location B_ibuf_RNIJABS[4] 1 10 2 #SB_LUT4
+set_location B_ibuf_RNIM55C1[6] 1 9 1 #SB_LUT4
+set_location alu_out_RNO_2[5] 1 12 6 #SB_LUT4
+set_location alu_out_RNO_1[5] 2 10 6 #SB_LUT4
+set_location alu_out_RNO[1] 1 8 2 #SB_LUT4
+set_location s_ibuf_RNID58E4[2] 1 8 4 #SB_LUT4
+set_location alu_out_RNO_4[7] 2 12 6 #SB_LUT4
+set_location B_ibuf_RNII9BS[3] 1 9 4 #SB_LUT4
+set_location alu_out_RNO_0[7] 2 11 1 #SB_LUT4
+set_location B_ibuf_RNI4CQF1[3] 2 12 4 #SB_LUT4
+set_location alu_out_RNO_2[0] 1 11 3 #SB_LUT4
+set_location alu_out_RNO[5] 1 9 3 #SB_LUT4
+set_location alu_out_RNO_1[1] 2 10 2 #SB_LUT4
+set_location B_ibuf_RNIH05C1[1] 1 11 7 #SB_LUT4
+set_location alu_out_RNO_3[0] 1 11 5 #SB_LUT4
+set_location B_ibuf_RNIG7BS[1] 1 11 6 #SB_LUT4
+set_location B_ibuf_RNIAIQF1[6] 2 12 5 #SB_LUT4
+set_location alu_out_RNO_0[3] 2 9 1 #SB_LUT4
+set_location s_ibuf_RNI1PPF[1] 1 10 6 #SB_LUT4
+set_location alu_out_RNO_2[4] 1 12 2 #SB_LUT4
+set_io alu_out[6] 25
+set_io B[7] 141
+set_io A[7] 143
+set_io s[1] 19
+set_io alu_out[5] 22
+set_io B[0] 144
+set_io A[6] 7
+set_io s[0] 11
+set_io alu_out[4] 26
+set_io B[1] 34
+set_io A[5] 4
+set_io s[3] 12
+set_io clk 20
+set_io alu_out[3] 23
+set_io B[2] 139
+set_io A[4] 2
+set_io s[2] 21
+set_io alu_out[2] 28
+set_io B[3] 142
+set_io A[3] 1
+set_io alu_out[1] 31
+set_io B[4] 3
+set_io A[2] 33
+set_io alu_out[0] 29
+set_io B[5] 8
+set_io A[1] 32
+set_io alu_out[7] 24
+set_io B[6] 9
+set_io A[0] 10

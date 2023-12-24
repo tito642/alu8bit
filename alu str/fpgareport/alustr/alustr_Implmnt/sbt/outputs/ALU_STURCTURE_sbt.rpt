@@ -1,0 +1,127 @@
+* ******************************************************************************
+
+* iCEcube Report
+
+* Version:            2020.12.27943
+
+* Build Date:         Dec  9 2020 17:31:51
+
+* File Generated:     Dec 18 2023 04:48:15
+
+* Purpose:            General info of design implementation
+
+* Copyright (C) 2006-2010 by Lattice Semiconductor Corp. All rights reserved.
+
+* ******************************************************************************
+
+Synthesis/Placement Summary:
+----------------------------
+    Status:  Successful
+    Runtime: 0 seconds
+
+Device Info:
+------------
+    Device Family: iCE40
+    Device:        iCE40HX1K
+    Package:       TQ144
+
+Design statistics:
+------------------
+    FFs:                  0
+    LUTs:                 75
+    RAMs:                 0
+    IOBs:                 35
+    GBs:                  1
+    PLLs:                 0
+    Warm Boots:           0
+
+Logic Resource Utilization:
+---------------------------
+    Total Logic Cells: 77/1280
+        Combinational Logic Cells: 77       out of   1280      6.01563%
+        Sequential Logic Cells:    0        out of   1280      0%
+        Logic Tiles:               14       out of   160       8.75%
+    Registers: 
+        Logic Registers:           0        out of   1280      0%
+        IO Registers:              8        out of   560       1.42857
+    Block RAMs:                    0        out of   16        0%
+    Warm Boots:                    0        out of   1         0%
+    Pins:
+        Input Pins:                21       out of   96        21.875%
+        Output Pins:               14       out of   96        14.5833%
+        InOut Pins:                0        out of   96        0%
+    Global Buffers:                1        out of   8         12.5%
+    PLLs:                          0        out of   1         0%
+
+IO Bank Utilization:
+--------------------
+    Bank 3: 24       out of   24        100%
+    Bank 1: 0        out of   25        0%
+    Bank 0: 11       out of   23        47.8261%
+    Bank 2: 0        out of   24        0%
+
+Detailed I/O Info:
+------------------
+    Input Pins: 
+    Pin Number  Direction  IO Standard  Pull Up  IO Bank  IO Function        Signal Name
+    ----------  ---------  -----------  -------  -------  -----------        -----------
+    1           Input      SB_LVCMOS    No       3        Simple Input       A[7]       
+    2           Input      SB_LVCMOS    No       3        Simple Input       A[6]       
+    3           Input      SB_LVCMOS    No       3        Simple Input       A[4]       
+    4           Input      SB_LVCMOS    No       3        Simple Input       B[6]       
+    7           Input      SB_LVCMOS    No       3        Simple Input       B[5]       
+    8           Input      SB_LVCMOS    No       3        Simple Input       B[4]       
+    9           Input      SB_LVCMOS    No       3        Simple Input       B[1]       
+    10          Input      SB_LVCMOS    No       3        Simple Input       B[0]       
+    20          Input      SB_LVCMOS    No       3        Simple Input       CLK        
+    21          Input      SB_LVCMOS    No       3        Simple Input       S2_S3[1]   
+    22          Input      SB_LVCMOS    No       3        Simple Input       S2_S3[0]   
+    33          Input      SB_LVCMOS    No       3        Simple Input       s2         
+    34          Input      SB_LVCMOS    No       3        Simple Input       S1         
+    136         Input      SB_LVCMOS    No       0        Simple Input       A[5]       
+    137         Input      SB_LVCMOS    No       0        Simple Input       A[3]       
+    138         Input      SB_LVCMOS    No       0        Simple Input       A[1]       
+    139         Input      SB_LVCMOS    No       0        Simple Input       A[0]       
+    141         Input      SB_LVCMOS    No       0        Simple Input       A[2]       
+    142         Input      SB_LVCMOS    No       0        Simple Input       B[3]       
+    143         Input      SB_LVCMOS    No       0        Simple Input       B[2]       
+    144         Input      SB_LVCMOS    No       0        Simple Input       B[7]       
+
+    Output Pins: 
+    Pin Number  Direction  IO Standard  Pull Up  IO Bank  IO Function        Signal Name
+    ----------  ---------  -----------  -------  -------  -----------        -----------
+    11          Output     SB_LVCMOS    No       3        Output Registered  F[7]       
+    12          Output     SB_LVCMOS    No       3        Output Registered  F[6]       
+    19          Output     SB_LVCMOS    No       3        Output Registered  F[5]       
+    23          Output     SB_LVCMOS    No       3        Output Registered  F[0]       
+    24          Output     SB_LVCMOS    No       3        Output Registered  F[4]       
+    25          Output     SB_LVCMOS    No       3        Output Registered  F[3]       
+    26          Output     SB_LVCMOS    No       3        Output Registered  F[2]       
+    28          Output     SB_LVCMOS    No       3        Output Registered  F[1]       
+    29          Output     SB_LVCMOS    No       3        Simple Output      A_equal_B  
+    31          Output     SB_LVCMOS    No       3        Simple Output      flag_zero  
+    32          Output     SB_LVCMOS    No       3        Simple Output      carry_out  
+    129         Output     SB_LVCMOS    No       0        Simple Output      over_flow  
+    134         Output     SB_LVCMOS    No       0        Simple Output      B_bigger   
+    135         Output     SB_LVCMOS    No       0        Simple Output      A_bigger   
+
+Detailed Global Buffer Info:
+----------------------------
+    Buffer Number  IO Bank  Driven By  Fanout  Signal Name
+    -------------  -------  ---------  ------  -----------
+    4              3        IO         8       CLK_c_g  
+
+
+Router Summary:
+---------------
+    Status:  Successful
+    Runtime: 3 seconds
+
+Routing Resource Utilization:
+-----------------------------
+              Local line of tile      618 out of  28666      2.15586%
+                          Span 4      143 out of   6944      2.05933%
+                         Span 12       15 out of   1440      1.04167%
+                  Global network        1 out of      8      12.5%
+      Vertical Inter-LUT Connect       15 out of   1120      1.33929%
+

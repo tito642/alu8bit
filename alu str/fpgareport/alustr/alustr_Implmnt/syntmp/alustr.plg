@@ -1,0 +1,12 @@
+@P:  Worst Slack : NA
+@P:  ALU_STURCTURE|CLK - Estimated Frequency : NA
+@P:  ALU_STURCTURE|CLK - Requested Frequency : 1.0 MHz
+@P:  ALU_STURCTURE|CLK - Estimated Period : NA
+@P:  ALU_STURCTURE|CLK - Requested Period : 1000.000
+@P:  ALU_STURCTURE|CLK - Slack : NA
+@P: ALU_STURCTURE Part : ice40hx1ktq144
+@P: ALU_STURCTURE I/O primitives : 35
+@P: ALU_STURCTURE I/O Register bits : 0
+@P: ALU_STURCTURE Register bits (Non I/O) : 8 (0%)
+@P: ALU_STURCTURE Total Luts : 72 (5%)
+@P:  CPU Time : 0h:00m:01s

@@ -1,0 +1,47 @@
+#OPTIONS:"|-layerid|0|-orig_srs|C:\\Users\\RoYaa\\Desktop\\ALU_STURCTURE\\fpga_outtt\\alustr\\alustr_Implmnt\\synwork\\alustr_comp.srs|-prodtype|synplify_pro|-primux|-fixsmult|-infer_seqShift|-ice|-sdff_counter|-nram|-divnmod|-nostructver|-I|C:\\Users\\RoYaa\\Desktop\\ALU_STURCTURE\\fpga_outtt\\alustr\\|-I|C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib|-v2001|-devicelib|C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\generic\\sb_ice40.v|-encrypt|-pro|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work"
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\bin64\\c_ver.exe":1700328115
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\generic\\sb_ice40.v":1700328119
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\hypermods.v":1700328121
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\umr_capim.v":1700328121
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\scemi_objects.v":1700328121
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\scemi_pipes.svh":1700328121
+#CUR:"C:\\Users\\RoYaa\\Desktop\\ALU_STURCTURE\\ALU_STURCTURE.v":1702540232
+#CUR:"C:\\Users\\RoYaa\\Desktop\\ALU_STURCTURE\\Arithematic_unit.v":1702501215
+#CUR:"C:\\Users\\RoYaa\\Desktop\\ALU_STURCTURE\\register.v":1702496680
+#CUR:"C:\\Users\\RoYaa\\Desktop\\ALU_STURCTURE\\shifter_unit.v":1702494564
+#CUR:"C:\\Users\\RoYaa\\Desktop\\ALU_STURCTURE\\logic_unit.v":1702494222
+#CUR:"C:\\Users\\RoYaa\\Desktop\\ALU_STURCTURE\\mux1.v":1702494544
+#CUR:"C:\\Users\\RoYaa\\Desktop\\ALU_STURCTURE\\mux2.v":1702537933
+#numinternalfiles:5
+#defaultlanguage:verilog
+0			"C:\Users\RoYaa\Desktop\ALU_STURCTURE\ALU_STURCTURE.v" verilog
+1			"C:\Users\RoYaa\Desktop\ALU_STURCTURE\Arithematic_unit.v" verilog
+2			"C:\Users\RoYaa\Desktop\ALU_STURCTURE\register.v" verilog
+3			"C:\Users\RoYaa\Desktop\ALU_STURCTURE\shifter_unit.v" verilog
+4			"C:\Users\RoYaa\Desktop\ALU_STURCTURE\logic_unit.v" verilog
+5			"C:\Users\RoYaa\Desktop\ALU_STURCTURE\mux1.v" verilog
+6			"C:\Users\RoYaa\Desktop\ALU_STURCTURE\mux2.v" verilog
+#Dependency Lists(Uses List)
+0 1 4 3 5 6 2
+1 -1
+2 -1
+3 -1
+4 -1
+5 -1
+6 -1
+#Dependency Lists(Users Of)
+0 -1
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+#Design Unit to File Association
+module work Arithematic_unit 1
+module work logic_unit 4
+module work shifter_unit 3
+module work mux1 5
+module work mux2 6
+module work register 2
+module work ALU_STURCTURE 0

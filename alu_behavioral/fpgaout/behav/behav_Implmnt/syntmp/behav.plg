@@ -1,0 +1,12 @@
+@P:  Worst Slack : NA
+@P:  alu_behavioral|clk - Estimated Frequency : NA
+@P:  alu_behavioral|clk - Requested Frequency : 1.0 MHz
+@P:  alu_behavioral|clk - Estimated Period : NA
+@P:  alu_behavioral|clk - Requested Period : 1000.000
+@P:  alu_behavioral|clk - Slack : NA
+@P: alu_behavioral Part : ice40hx1ktq144
+@P: alu_behavioral I/O primitives : 29
+@P: alu_behavioral I/O Register bits : 0
+@P: alu_behavioral Register bits (Non I/O) : 8 (0%)
+@P: alu_behavioral Total Luts : 69 (5%)
+@P:  CPU Time : 0h:00m:02s

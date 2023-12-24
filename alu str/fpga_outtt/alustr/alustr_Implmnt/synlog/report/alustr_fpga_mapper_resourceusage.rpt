@@ -1,0 +1,25 @@
+---------------------------------------
+Resource Usage Report for ALU_STURCTURE 
+
+Mapping to part: ice40hx1ktq144
+Cell usage:
+GND             5 uses
+SB_CARRY        31 uses
+SB_DFF          8 uses
+VCC             5 uses
+SB_LUT4         72 uses
+
+I/O ports: 35
+I/O primitives: 35
+SB_GB_IO       1 use
+SB_IO          34 uses
+
+I/O Register bits:                  0
+Register bits not including I/Os:   8 (0%)
+
+@S |Mapping Summary:
+Total  LUTs: 72 (5%)
+
+Distribution of All Consumed LUTs = LUT4 
+Distribution of All Consumed Luts 72 = 72 
+

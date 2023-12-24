@@ -1,0 +1,30 @@
+module shift_reg_behavioral(
+    input wire [7:0] A,
+    input wire s3, s2,
+    output wire [7:0] reg_out
+);
+
+always @(*) begin
+    wire [7:0] Sl = A << 1; // Left shift
+    wire [7:0] Sr = A >> 1; // Right shift
+    wire [7:0] Rl = {A[6:0], A[7]}; // Left rotate
+    wire [7:0] Rr = {A[0], A[7:1]}; // Right rotate
+
+ 
+    case (s3)
+        1'b0: begin
+            case (s2)
+                1'b0: reg_out = Sl;
+                1'b1: reg_out = Sr;
+            endcase
+        end
+        1'b1: begin
+            case (s2)
+                1'b0: reg_out = Rl;
+                1'b1: reg_out = Rr;
+            endcase
+        end
+    endcase
+end
+
+endmodule

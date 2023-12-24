@@ -1,0 +1,149 @@
+set_location IN_MUX_bfv_2_11_0_ 2 11 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_1_11_0_ 1 11 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_1_12_0_ 1 12 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_1_13_0_ 1 13 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_1_14_0_ 1 14 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_2_12_0_ 2 12 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_2_13_0_ 2 13 0 #ICE_CARRY_IN_MUX
+set_location CONSTANT_ONE_LUT4 1 3 7 #SB_LUT4
+set_location B_bigger_c_THRU_LUT4_0 1 14 0 #SB_LUT4
+set_location A_bigger_c_THRU_LUT4_0 2 13 0 #SB_LUT4
+set_location b2v_inst4.result_reg2_ns[5] 1 9 7 #SB_LUT4
+set_location b2v_inst.B_bigger_cry_4_c_inv 1 13 4 #SB_LUT4
+set_location b2v_inst.B_bigger_cry_0_c 1 13 0 #SB_CARRY
+set_location b2v_inst.A_equal_B_NE_2 1 9 0 #SB_LUT4
+set_location b2v_inst.A_bigger_cry_5_c 2 12 5 #SB_CARRY
+set_location b2v_inst4.result_reg2_bm[7] 2 10 4 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_0_c_RNI1KOT 1 10 0 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_5_c_RNISCT4 2 11 6 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_2_c 2 11 2 #SB_CARRY
+set_location b2v_inst.B_bigger_cry_3_c_inv 1 13 3 #SB_LUT4
+set_location b2v_inst.B_bigger_cry_2_c_inv 1 13 2 #SB_LUT4
+set_location b2v_inst.result_arith_1_cry_5_c_RNI70KO 1 11 6 #SB_LUT4
+set_location b2v_inst3.result_reg1_am[3] 2 9 3 #SB_LUT4
+set_location b2v_inst.result_arith_1_cry_6_c 1 11 6 #SB_CARRY
+set_location b2v_inst.A_bigger_cry_0_c_inv 2 12 0 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_3_c 2 11 3 #SB_CARRY
+set_location b2v_inst.result_arith_0[0] 1 8 2 #SB_LUT4
+set_location b2v_inst.B_bigger_cry_5_c 1 13 5 #SB_CARRY
+set_location b2v_inst3.result_reg1_ns[0] 1 8 6 #SB_LUT4
+set_location b2v_inst1.result_logic[5] 1 9 5 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_0_c_RNIITN4 2 11 1 #SB_LUT4
+set_location b2v_inst.A_bigger_cry_0_c 2 12 0 #SB_CARRY
+set_location b2v_inst4.result_reg2_bm[4] 1 9 3 #SB_LUT4
+set_location b2v_inst4.result_reg2[3] 1 10 2 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_1_c_RNIK0P4 2 11 2 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_1_c_RNI6RQT 2 10 1 #SB_LUT4
+set_location b2v_inst.result_arith_1_cry_1_c 1 11 1 #SB_CARRY
+set_location b2v_inst4.result_reg2_am[7] 1 10 6 #SB_LUT4
+set_location b2v_inst.B_bigger_cry_7_c_inv 1 13 7 #SB_LUT4
+set_location b2v_inst.A_equal_B_NE_1 2 9 4 #SB_LUT4
+set_location b2v_inst3.result_reg1_am[2] 2 9 2 #SB_LUT4
+set_location b2v_inst.result_arith_1_cry_5_c 1 11 5 #SB_CARRY
+set_location b2v_inst4.result_reg2_ns[7] 1 10 7 #SB_LUT4
+set_location b2v_inst3.result_reg1_bm[2] 2 9 5 #SB_LUT4
+set_location b2v_inst.A_bigger_cry_7_c 2 12 7 #SB_CARRY
+set_location b2v_inst3.result_reg1_ns[1] 2 8 2 #SB_LUT4
+set_location b2v_inst1.result_logic[4] 1 9 2 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_1_c 2 11 1 #SB_CARRY
+set_location b2v_inst.result_arith_1_cry_2_c 1 11 2 #SB_CARRY
+set_location b2v_inst4.result_reg2_bm[5] 1 9 6 #SB_LUT4
+set_location b2v_inst4.result_reg2[0] 1 8 7 #SB_LUT4
+set_location b2v_inst.B_bigger_cry_7_c 1 13 7 #SB_CARRY
+set_location b2v_inst.B_bigger_cry_5_c_inv 1 13 5 #SB_LUT4
+set_location b2v_inst.A_bigger_cry_5_c_inv 2 12 5 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_2_c_RNIB2TT 1 10 1 #SB_LUT4
+set_location b2v_inst.result_arith_1_cry_4_c 1 11 4 #SB_CARRY
+set_location b2v_inst4.result_reg2_am[6] 2 10 5 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_4_c_RNIQ9S4 2 11 5 #SB_LUT4
+set_location b2v_inst.A_equal_B_NE_0 1 8 3 #SB_LUT4
+set_location b2v_inst.A_bigger_cry_6_c_inv 2 12 6 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_5_c 2 11 5 #SB_CARRY
+set_location b2v_inst.B_bigger_cry_6_c 1 13 6 #SB_CARRY
+set_location b2v_inst.A_bigger_cry_1_c_inv 2 12 1 #SB_LUT4
+set_location b2v_inst3.result_reg1_am[1] 2 8 1 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_2_c_RNIM3Q4 2 11 3 #SB_LUT4
+set_location b2v_inst.result_arith_1_cry_2_c_RNIUJGO 1 11 3 #SB_LUT4
+set_location b2v_inst.B_bigger_cry_6_c_inv 1 13 6 #SB_LUT4
+set_location b2v_inst3.result_reg1_bm[3] 2 9 0 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_3_c_RNIO6R4 2 11 4 #SB_LUT4
+set_location b2v_inst.A_equal_B_NE 1 9 1 #SB_LUT4
+set_location b2v_inst.A_bigger_cry_7_c_inv 2 12 7 #SB_LUT4
+set_location b2v_inst.A_bigger_cry_2_c_inv 2 12 2 #SB_LUT4
+set_location b2v_inst3.result_reg1_ns[2] 2 9 6 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_4_c 2 11 4 #SB_CARRY
+set_location b2v_inst.result_arith_1_cry_7_c 1 11 7 #SB_CARRY
+set_location b2v_inst.A_bigger_cry_4_c 2 12 4 #SB_CARRY
+set_location b2v_inst.A_bigger_cry_2_c 2 12 2 #SB_CARRY
+set_location b2v_inst4.result_reg2[1] 1 8 4 #SB_LUT4
+set_location b2v_inst.B_bigger_cry_4_c 1 13 4 #SB_CARRY
+set_location b2v_inst.result_arith_1_cry_4_c_RNI4SIO 1 11 5 #SB_LUT4
+set_location b2v_inst.A_bigger_cry_4_c_inv 2 12 4 #SB_LUT4
+set_location b2v_inst.A_bigger_cry_1_c 2 12 1 #SB_CARRY
+set_location b2v_inst4.result_reg2_ns[4] 1 9 4 #SB_LUT4
+set_location b2v_inst4.result_reg2_am[5] 1 10 5 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_6_c_RNIK5GH 2 11 7 #SB_LUT4
+set_location b2v_inst.B_bigger_cry_3_c 1 13 3 #SB_CARRY
+set_location b2v_inst.A_equal_B_NE_3 2 10 0 #SB_LUT4
+set_location b2v_inst.A_bigger_cry_6_c 2 12 6 #SB_CARRY
+set_location b2v_inst1.result_logic[7] 2 10 3 #SB_LUT4
+set_location b2v_inst.un8_result_arith_cry_6_c 2 11 6 #SB_CARRY
+set_location b2v_inst.result_arith_1_cry_6_c_RNIA4LO 1 11 7 #SB_LUT4
+set_location b2v_inst.result_arith_1_cry_0_c 1 11 0 #SB_CARRY
+set_location b2v_inst.B_bigger_cry_0_c_inv 1 13 0 #SB_LUT4
+set_location b2v_inst4.result_reg2_bm[6] 2 10 7 #SB_LUT4
+set_location b2v_inst3.result_reg1_am[0] 1 8 5 #SB_LUT4
+set_location b2v_inst.result_arith_1_cry_0_c_RNIOBEO 1 11 1 #SB_LUT4
+set_location b2v_inst3.result_reg1_bm[0] 1 8 1 #SB_LUT4
+set_location b2v_inst.B_bigger_cry_2_c 1 13 2 #SB_CARRY
+set_location b2v_inst3.result_reg1_ns[3] 2 9 1 #SB_LUT4
+set_location b2v_inst.B_bigger_cry_1_c_inv 1 13 1 #SB_LUT4
+set_location b2v_inst.A_bigger_cry_3_c_inv 2 12 3 #SB_LUT4
+set_location GND -1 -1 -1 #GND
+set_location b2v_inst.un8_result_arith_cry_0_c 2 11 0 #SB_CARRY
+set_location b2v_inst.result_arith_1_cry_7_c_RNIQ27A 1 12 0 #SB_LUT4
+set_location b2v_inst.result_arith_1_cry_3_c 1 11 3 #SB_CARRY
+set_location b2v_inst4.result_reg2_am[4] 1 10 4 #SB_LUT4
+set_location b2v_inst1.result_logic[6] 2 10 6 #SB_LUT4
+set_location b2v_inst4.result_reg2[2] 2 9 7 #SB_LUT4
+set_location b2v_inst3.result_reg1_bm[1] 2 8 0 #SB_LUT4
+set_location b2v_inst.result_arith_1_cry_3_c_RNI1OHO 1 11 4 #SB_LUT4
+set_location b2v_inst.B_bigger_cry_1_c 1 13 1 #SB_CARRY
+set_location b2v_inst.result_arith_1_cry_1_c_RNIRFFO 1 11 2 #SB_LUT4
+set_location b2v_inst.A_bigger_cry_3_c 2 12 3 #SB_CARRY
+set_location b2v_inst4.result_reg2_ns[6] 2 10 2 #SB_LUT4
+set_io flag_zero 31
+set_io F[2] 26
+set_io A[0] 139
+set_io F[3] 25
+set_io B[7] 144
+set_io A_equal_B 29
+set_io A[7] 1
+set_io F[4] 24
+set_io B_bigger 134
+set_io B[0] 10
+set_io A[6] 2
+set_io s2 33
+set_io over_flow 129
+set_io carry_out 32
+set_io F[5] 19
+set_io B[1] 9
+set_io A[5] 136
+set_io S2_S3[0] 22
+set_io S1 34
+set_io F[6] 12
+set_io B[2] 143
+set_io A_bigger 135
+set_io A[4] 3
+set_io S2_S3[1] 21
+set_io F[7] 11
+set_io B[3] 142
+set_io A[3] 137
+set_io F[0] 23
+set_io B[4] 8
+set_io A[2] 141
+set_io F[1] 28
+set_io CLK 20
+set_io B[5] 7
+set_io A[1] 138
+set_io B[6] 4

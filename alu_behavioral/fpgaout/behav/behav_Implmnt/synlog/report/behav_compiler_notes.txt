@@ -1,0 +1,7 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CG364 :"C:\Users\RoYaa\Desktop\alu_8bit_project\alu_behavioral\alu_behavioral.v":1:7:1:20|Synthesizing module alu_behavioral in library work.
+@N|Running in 64-bit mode
+@N: NF107 :"C:\Users\RoYaa\Desktop\alu_8bit_project\alu_behavioral\alu_behavioral.v":1:7:1:20|Selected library: work cell: alu_behavioral view verilog as top level
+@N: NF107 :"C:\Users\RoYaa\Desktop\alu_8bit_project\alu_behavioral\alu_behavioral.v":1:7:1:20|Selected library: work cell: alu_behavioral view verilog as top level
+

@@ -1,0 +1,12 @@
+module ALU_STURCTURE (
+
+input [7;0]A,B ;
+input [1;0]S2_S3;
+input S1,S2;
+
+output reg A_bigger,B_bigger,A_equal_B ,flag_zero;
+output reg [7:0]result_arith,result_logic,result_shift,F;
+output reg result_reg1,result_reg2,carry_out,over_flow
+
+
+)

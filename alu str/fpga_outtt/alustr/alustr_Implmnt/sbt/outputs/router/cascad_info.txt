@@ -1,0 +1,16 @@
+[VIC]
+N_24_cascade_=ltout:in0
+SYNTHESIZED_WIRE_0_4_cascade_=ltout:in3
+SYNTHESIZED_WIRE_0_5_cascade_=ltout:in3
+SYNTHESIZED_WIRE_0_6_cascade_=ltout:in3
+SYNTHESIZED_WIRE_0_7_cascade_=ltout:in3
+SYNTHESIZED_WIRE_3_0_cascade_=ltout:in2
+SYNTHESIZED_WIRE_3_2_cascade_=ltout:in2
+b2v_inst.A_equal_B_NEZ0Z_2_cascade_=ltout:in2
+b2v_inst3.result_reg1_amZ0Z_0_cascade_=ltout:in0
+b2v_inst3.result_reg1_amZ0Z_1_cascade_=ltout:in0
+b2v_inst3.result_reg1_bmZ0Z_2_cascade_=ltout:in1
+b2v_inst3.result_reg1_bmZ0Z_3_cascade_=ltout:in1
+b2v_inst4.result_reg2_amZ0Z_7_cascade_=ltout:in0
+b2v_inst4.result_reg2_bmZ0Z_4_cascade_=ltout:in1
+b2v_inst4.result_reg2_bmZ0Z_5_cascade_=ltout:in1

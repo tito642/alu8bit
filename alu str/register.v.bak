@@ -1,0 +1,11 @@
+module register(
+input clkregister
+
+);
+
+always @ (posedge clk) begin
+
+     F<= result_reg2;
+  
+end
+endmodule

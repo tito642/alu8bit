@@ -1,0 +1,46 @@
+`timescale 1ns/1ps
+
+module tb_alu;
+
+reg	s2;
+reg	S1;
+reg	CLK;
+reg	[7:0] A;
+reg	[7:0] B;
+reg	[1:0] S2_S3;
+wire	A_bigger;
+wire	B_bigger;
+wire	A_equal_B;
+wire	flag_zero;
+wire	carry_out;
+wire	over_flow;
+wire	[7:0] F;
+
+
+ALU_STURCTURE ee(
+   s2,
+	S1,
+	CLK,
+	A,
+	B,
+	S2_S3,
+	A_bigger,
+	B_bigger,
+	A_equal_B,
+	flag_zero,
+	carry_out,
+	over_flow,
+	F
+     );
+    initial begin
+    
+	   s2=0;S1=0; CLK=0;A=8'h0;B=8'h0;S2_S3=4'h0;
+		#10
+		s2=1;S1=1; CLK=1;A=8'h05;B=8'h09;S2_S3=4'b01;
+		#10	
+		s2=1;S1=1; CLK=1;A=8'h09;B=8'h06;S2_S3=4'b11;
+		#10
+	   s2=0;S1=0; CLK=1;A=8'h05;B=8'h09;S2_S3=4'b01;
+		#10
+    end
+endmodule
